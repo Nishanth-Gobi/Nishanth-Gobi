@@ -4,7 +4,7 @@ I am a passionate computer science student on a learning curve.
 
 ### GitHub Stats
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Nishanth-Gobi&count_private=true&show_icons=true&theme=jolly)(https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Nishanth-Gobi&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on compression algorithms
 - 🌱 I’m currently learning SQL, Networking and Linux Kernal
