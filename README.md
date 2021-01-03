@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, I am Nishanth Gobi 👋
 
 <!--
 **Nishanth-Gobi/Nishanth-Gobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on compression algorithms
+- 🌱 I’m currently learning SQL, Networking and Linux Kernal
+- 👯 I’m looking to collaborate on projects
+- 💬 Ask me about Data structures and algorithms
+- 📫 How to reach me: https://www.linkedin.com/in/nishanth-gobi-66bb631b0/
+- 😄 Pronouns: He/ Him
+- ⚡ Fun fact: I like noisy working environments 
 -->
+
+
+<!-- - 🤔 I’m looking for help with codecs 
+
