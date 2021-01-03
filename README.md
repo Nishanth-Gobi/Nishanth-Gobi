@@ -1,5 +1,7 @@
 ### Hello, I am Nishanth Gobi 👋
 
+#I am a passionate computer science student on a learning curve.   
+
 - 🔭 I’m currently working on compression algorithms
 - 🌱 I’m currently learning SQL, Networking and Linux Kernal
 - 👯 I’m looking to collaborate on projects
